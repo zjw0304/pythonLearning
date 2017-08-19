@@ -1,1 +1,2 @@
-print("Hello world")
+name = 'jingwzh'
+print("Hello world ", name, '!')
